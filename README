@@ -1,0 +1,22 @@
+# CityBikes Automated Tests
+
+Automated tests to validate CityBikes Location
+
+# Technologies 
+1. Java
+2. Cucumber/Junit
+3. Maven
+4. RestAssured
+5. Json
+
+
+# How to run
+1. Connect to the network
+2. Update Maven project to get the  Maven dependencies
+3. Right click on feature file and select Run as -> Cucumber Feature4 
+
+
+Note: Google api is used to verify the city latitude and langtude.
+Api key is required to work with this api, So the api request is denied.
+So Assertions are not implemented in the test. 
+
