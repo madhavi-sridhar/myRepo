@@ -13,7 +13,7 @@ Automated tests to validate CityBikes Location
 # How to run
 1. Connect to the network
 2. Update Maven project to get the  Maven dependencies
-3. Right click on feature file and select Run as -> Cucumber Feature4 
+3. Right click on feature file and select Run as -> Cucumber Feature 
 
 
 Note: Google api is used to verify the city latitude and langtude.
